@@ -1,10 +1,10 @@
-# WordLens AR
+# WordLens
 
 ## Inspiration
 I love reading books. It helps me think better and understand other people's feelings. I learned that some people have a hard time reading because of dyslexia, and I wanted to help. So I made WordLens AR, an app to help people with dyslexia read and write more easily and to help everyone get the same chance to learn in school.
 
 ## What it does
-WordLens AR is an app for iPhones that helps people with dyslexia. Dyslexia makes reading, writing, and spelling hard for some people. It's not about being smart; it's just how their brains work.
+WordLens is an app for iPhones that helps people with dyslexia. Dyslexia makes reading, writing, and spelling hard for some people. It's not about being smart; it's just how their brains work.
 
 The app has a simple design with pictures and voice commands so it's easy to use. It uses the phone's camera to help in three ways:
 
@@ -14,10 +14,10 @@ The app has a simple design with pictures and voice commands so it's easy to use
 
 3. **Tracking Progress:** The app keeps track of the words you find tricky and shows how much you're improving over time. This information is kept safe and private.
 
-The goal of WordLens AR is to make reading and writing easier for people with dyslexia so they can get better at it.
+The goal of WordLens is to make reading and writing easier for people with dyslexia so they can get better at it.
 
 ## How we built it
-I used tools like XCode and Swift (which are for making iPhone apps) to create WordLens AR. The app has a simple look with animations, and it uses special technology to show 3D images from a service called echo3D. I made sure everything in the app is easy to read and understand.
+I used tools like XCode and Swift (which are for making iPhone apps) to create WordLens. The app has a simple look with animations, and it uses special technology to show 3D images from a service called echo3D. I made sure everything in the app is easy to read and understand.
 
 I also made a smart system that can look at the words you write and figure out what you mean, even if there are mistakes. This helps the app suggest the right spelling.
 
@@ -32,5 +32,5 @@ I made an app that really helps people. I used some cool technology like 3D imag
 ## What we learned
 Using technology to help people is important. I learned a lot about how to make an app that can make a big difference in people's lives.
 
-## What's next for WordLens AR
+## What's next for WordLens
 I want to make the app even better and put it in the App Store so everyone can use it. I also hope to work with doctors to see how much it can help people with dyslexia.
